@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+
+
+.container {
+    position: fixed;
+}
+
+.image1 {
+    position: absolute;
+
+}
+
+.image2 {
+    position: absolute;
+
+
+}
+
+.image3 {
+    position: absolute;
+
+
+}
+
+.image4 {
+    position: absolute;
+
+
+}
+
+.image5 {
+    position: absolute;
+
+
+}
+
+.image6 {
+    position: absolute;
+
+
+}
+
+.image7 {
+    position: absolute;
+
+
+}
+
+.image8 {
+    position: absolute;
+
+
+}
+
+.image9 {
+    position: absolute;
+
+
+}
+
+
+.image10 {
+    position: absolute;
+
+
+}
+
+
+.image11 {
+    position: absolute;
+
+
+}
+
+
+.image12 {
+    position: absolute;
+
+
+}
+
+h1 {
+    left: 450px;
+    color: black;
+    z-index: 9999;
+    position: absolute;
+    top: 350px;
+    color: white;
+
+
+}
+
+section {
+    min-height: 220vh;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding-top: 1200px;
+    padding-left: 750px;
+
+}
+
+.heading {
+    position: absolute
+}
+
+.agenda-date {
+    color: #5d89b3;
+    font-size: 1.3em;
+
+}
+
+.agenda-subtext {
+    font-size: 85%;
+    color: darkgray;
+    text-transform: uppercase;
+}
+
+.session-details {
+    padding-top: 40px;
+}
+
+h2 {
+    color: #003b70;
+    font-size: 1.9em;
+    padding-bottom: 8px;
+
+}
+
+h3 {
+    color: #5d89b3;
+    font-size: 1.3em;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 200px;
+}
+
+hr {
+
+    display: flex;
+    margin-top: 40px;
+    margin-right: 200px;
+    margin-bottom: 40px;
+    height: 1px;
+    color: #e2e1e1;
+    background: -webkit-gradient(radial,50% 50%,0,50% 50%,550,from(#e2e1e1),to(#fff));
+    border: none;
+
+}
+
+li {
+    margin-left: 35px;
+}
